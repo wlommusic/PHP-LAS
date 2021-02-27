@@ -12,6 +12,6 @@ localserver runs on XAMPP.
 
 [The App is depolyed on Heroku](https://php-leave-application-system.herokuapp.com/)<br>
 
-[The Remote database used can be found on](https://remotemysql.com/)
+[The Remote database used can be found here.](https://remotemysql.com/)
 
 
